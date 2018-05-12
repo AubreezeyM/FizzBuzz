@@ -1,2 +1,2 @@
 # What is this?
-I dunno.  A python thing I did with my boyfriend.  Liked it enough to upload.
+I dunno.  A bunch of FizzBuzz solutions I do when bored.  Various languages.
